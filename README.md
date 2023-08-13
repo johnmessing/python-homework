@@ -1,92 +1,129 @@
 # MIA-VIRT-FIN-PT-08-2023-U-LOLC
 
+Welcome to the FinTech Bootcamp repository!
+
+## Table of Contents
+- [About the Program](#about-the-program)
+- [Getting Started](#getting-started)
+- [Support](#Support)
+- [Contact Information](#contact-information)
+
+## About the Program
+
+You will begin with a quick, crash course in finance fundamentals. We want to make sure you have a baseline understanding of things like financial modeling and financial statement analysis.
+
+**You Will Learn:**
+- Fintech Landscape
+- Time-Series Analysis
+- Financial Ratios
+
+### Financial Programming
+When it comes to analyzing large financial data sets, Python is far more powerful than Excel. By the end of this Bootcamp, you will know how to use Python and APIs to run robust financial analysis and build applications that rely on real-time data.
+
+**You Will Learn:**
+- Python
+- Financial Modeling
+- Pandas
+- Matplotlib
+- Statistical Programming
+- APIs
+- SQL
+- NumPy
+- SciPy
+- PyViz
+
+### Machine Learning 
+
+It’s one thing to analyze the past, but it’s another to predict future outcomes. You will learn how to use machine learning techniques to determine credit worthiness, buy and sell stocks, and more.
+**You Will Learn:**
+- Algorithmic Trading
+- Random Forests
+- k-Nearest Neighbors
+- Support Vector Machines
+- Scikit-learn
+- Linear Regression
+- Logistic Regression
+- k-Means Clustering
+- Neural Networks
+- Forecasting
+- Amazon Web Services
+
+### Blockchain 
+As the popularity of blockchain has grown, so has the demand for professionals with related skills. You will develop a technical understanding of how blockchains work and get hands-on experience with Solidity, the most popular blockchain language, and smart-contracts.
+**You Will Learn:**
+- Solidity
+- Smart Contracts
+- Consensus Algorithms
+- Transactions
+- Validation
+- Distributed Ledger
+- Ethereum
+- Cryptocurrency
+- Mining
+- Truffle Suite
+- Ganache
+
+---
+
+## Getting Started
+
+### Cloning the Repository
+
+1. Open your terminal or command prompt.
+2. Navigate to the directory where you want to store the repository:
+
+   cd path/to/your/desired/directory
+
+3. Clone the repository by running the following command:
+
+    git clone https://git.bootcampcontent.com/University-of-Miami/MIA-VIRT-FIN-PT-08-2023-U-LOLC.git
+
+You now have a local copy of the repository on your machine.
+
+### Pulling Updates
+As the boot camp progresses, we'll be adding new content and making improvements to existing materials. It's important to keep your local copy up to date before each class. To pull the latest changes from the repository:
+
+1. Open your terminal or command prompt.
+2. Navigate to the repository directory:
+
+    cd path/to/MIA-VIRT-FIN-PT-08-2023-U-LOLC
+
+3. Run the following command to pull the latest changes from the remote repository and update your local copy:
+
+    git pull
+
+4. Your local copy is now up to date with the latest changes.
 
 
-## Getting started
+### Stay Informed
+Make sure to regularly pull updates from the repository, especially before starting a new week's work. This will ensure you have access to the most recent materials and instructions.
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+If you're new to Git and version control, don't worry! We're here to help. Reach out to our support team if you encounter any issues or have questions.
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
-
-## Add your files
-
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
-
-```
-cd existing_repo
-git remote add origin https://git.bootcampcontent.com/University-of-Miami/MIA-VIRT-FIN-PT-08-2023-U-LOLC.git
-git branch -M main
-git push -uf origin main
-```
-
-## Integrate with your tools
-
-- [ ] [Set up project integrations](https://git.bootcampcontent.com/University-of-Miami/MIA-VIRT-FIN-PT-08-2023-U-LOLC/-/settings/integrations)
-
-## Collaborate with your team
-
-- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-- [ ] [Automatically merge when pipeline succeeds](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html)
-
-## Test and Deploy
-
-Use the built-in continuous integration in GitLab.
-
-- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/index.html)
-- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing(SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
-- [ ] [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
-- [ ] [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
-- [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
-
-***
-
-# Editing this README
-
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thank you to [makeareadme.com](https://www.makeareadme.com/) for this template.
-
-## Suggestions for a good README
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
-
-## Name
-Choose a self-explaining name for your project.
-
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
-
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
-
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
-
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
-
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
+---
 
 ## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
 
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
+Fintech is one of the most in-demand global fields today. We are committed to equipping you with the fundamental skills you need to make an impact while providing unparalleled support and resources before, during, and after your boot camp.
 
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
+- Work with an enrollment advisor who will help you prepare for your boot camp.
+- Get 24/7 on-demand learning assistance via text or video chat.
+- Access a 1-on-1 tutor if you get stuck.
+- Connect with a powerful network of engaged instructors, course assistants, peers, and previous certificate recipients.
 
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
+---
 
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
+## Contact Information 
+Instructor: Jorge Sierra
+Email: jsierra@instructors.2u.com
+LinkedIn:
+https://www.linkedin.com/in/jsierra
 
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
+TA: Richie Garafola
+Email: RGarafola@instructors.2u.com
+LinkedIn:
+https://www.linkedin.com/in/richiegarafola
 
-## License
-For open source projects, say how it is licensed.
+SSA: Lacey Emry
 
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+---
