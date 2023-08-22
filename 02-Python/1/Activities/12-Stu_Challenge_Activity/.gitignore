@@ -1,0 +1,29 @@
+# Ignore the folder "unsolved" and its contents
+unsolved/
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore virtual environment directories
+venv/
+env/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore log files
+*.log
+
+# Ignore sensitive configuration files
+config.json
+
+# Ignore build artifacts
+build/
+dist/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Node.js modules
+node_modules/
